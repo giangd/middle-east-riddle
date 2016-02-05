@@ -9,8 +9,9 @@ void setup() {
   String[] syria = loadStrings("SyriaTwelve.txt");
   String[] turkey = loadStrings("TurkeyTwelve.txt");
   String[] yemen = loadStrings("YemenTwelve.txt");
-  // print(findSum(list, 5, 12));
-  println(anagram(turkey, turkey));
+  String[] list = loadStrings("Cyprus.txt");
+  // print(findSum(list, 6, 12));
+  println(anagram(wordBank, wordBank));
 
 }
 
@@ -27,6 +28,9 @@ String findSum(String[] list, int len, int target) { //for each word in "list": 
     if (tempString.length()+len == target) //adds up numbers to see if they equal "target"
       tempStorage = tempStorage + tempString + " ";
   }
+
+  if (tempStorage.equals(""))
+    return "none found";
 
   return tempStorage;
 }
