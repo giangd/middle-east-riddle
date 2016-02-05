@@ -95,7 +95,7 @@ SorgunTurkey
 MidyatTurkey
 BartinTurkey
 BitlisTurkey
-DuziçiTurkey
+DuziciTurkey
 SilvanTurkey
 DeveliTurkey
 BodrumTurkey
@@ -113,7 +113,7 @@ GoksunTurkey
 HilvanTurkey
 CayeliTurkey
 AlapliTurkey
-YalvaçTurkey
+YalvacTurkey
 CermikTurkey
 SarkoyTurkey
 DikiliTurkey
@@ -135,10 +135,10 @@ AvanosTurkey
 GordesTurkey
 GolkoyTurkey
 UmurluTurkey
-AlaçamTurkey
+AlacamTurkey
 HavranTurkey
 BozovaTurkey
-BorçkaTurkey
+BorckaTurkey
 KeskinTurkey
 AskaleTurkey
 KangalTurkey
