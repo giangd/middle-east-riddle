@@ -1,4 +1,4 @@
-//add more cities i dont think the ones i have now match
+//finished run program to see which ones match
 
 void setup() {
   String[] countries = loadStrings("1List of Countries.txt");
